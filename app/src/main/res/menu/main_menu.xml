@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/favOption"
+        android:title="Favourites" />
+
+    <item
+        android:id="@+id/loginOption"
+        android:title="Login" />
+
+    <item
+        android:id="@+id/logoutOption"
+        android:title="Logout" />
+
+    <item
+        android:id="@+id/aboutOption"
+        android:title="About" />
+
+    <item
+        android:id="@+id/refreshButton"
+        android:title="Refresh"
+        app:actionViewClass="android.widget.ImageButton"
+        app:showAsAction="always"></item>
+
+
+
+    <item
+        android:id="@+id/search_menu"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Search Menu"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always"></item>
+
+</menu>

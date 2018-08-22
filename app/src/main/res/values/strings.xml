@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movie Viewer</string>
+    <string name="complete_info">Details</string>
+    <string name="search">Search</string>
+    <string name="about">About</string>
+    <string name="favs">Favourites</string>
+    <string name="website">WebSite</string>
+    <string name="login">Login/Register</string>
+    <string name="youtube">Videos</string>
+
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">M3uIsSW83RHZtE7y0GvCQF2VaRB4NvoqQDHPbEy4</string>
+    <string name="back4app_client_key">hSvw27LgknPRyeFfHjUiB3PvuNAZQsdl9TAaRwqX</string>
+</resources>
